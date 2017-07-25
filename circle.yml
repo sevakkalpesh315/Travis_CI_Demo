@@ -11,7 +11,7 @@ general:
 
 machine:
     environment:
-        ANDROID_HOME: /Users/kalpesh/Library/Android/sdk
+        ANDROID_HOME: /Users/kalpesh/Library/Android/sdk/
         ADB_INSTALL_TIMEOUT: 60
         GRADLE_OPTS: '-Dorg.gradle.jvmargs="-Xmx3072M -XX:+HeapDumpOnOutOfMemoryError"'
     java:
